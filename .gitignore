@@ -27,3 +27,7 @@ yarn-error.log
 Thumbs.db
 .docker/
 docker-compose.override.yml
+bootstrap/cache/
+desktop.ini
+database/.gitignore
+*.txt
