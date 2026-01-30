@@ -31,3 +31,4 @@ bootstrap/cache/
 desktop.ini
 database/.gitignore
 *.txt
+/storage/
