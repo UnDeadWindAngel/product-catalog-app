@@ -268,13 +268,13 @@ curl -X GET "http://localhost:8080/api/products?search=телефон"
 ## 🖼 Скриншоты
 
 ### Главная страница каталога
-![Главная страница каталога](https://docs/screenshots/home.png)
+![Главная страница каталога](docs/screenshots/home.png)
 
 ### Административная панель
-![Административная панель](https://docs/screenshots/admin.png)
+![Административная панель](docs/screenshots/admin.png)
 
 ### Форма создания товара
-![Форма создания товара](https://docs/screenshots/form.png)
+![Форма создания товара](docs/screenshots/form.png)
 
 ---
 
